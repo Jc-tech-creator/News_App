@@ -1,4 +1,5 @@
 #a Tinder-like News App
+
 Designed the Instagram Flavor News app based on Google Component Architectural MVVM Pattern
  
 Implemented the bottom bar & page navigation using JetPack navigation component
